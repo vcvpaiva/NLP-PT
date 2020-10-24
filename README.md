@@ -29,7 +29,13 @@ But this does not mean the resource is good, yet. As I keep repeating
 
 or something like this, as I've heard somewhere, perhaps in the meetings of the ACQUILEX project many moons ago.
 
-Other slide decks on this: https://www.slideshare.net/valeria.depaiva/lexical-resources-for-portuguese
+Other slide decks on this: 
+
+https://www.slideshare.net/valeria.depaiva/lexical-resources-for-portuguese
+
+https://www.slideshare.net/valeria.depaiva/seeing-is-correctinglinked-open-data-for-portuguese
+
+https://www.slideshare.net/valeria.depaiva/ownpt-taking-stock
 
 Anyways in the blog post https://logic-forall.blogspot.com/2018/12/who-uses-openwordnet-pt.html I discuss some of the work arising from OWN-PT.
 
