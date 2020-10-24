@@ -1,8 +1,8 @@
 # Progresso em PLN em portugues
 
-This collection of links is to help me in my research on 'PLN em portugues'.
+This collection of links is to help me in my research on 'NLP in Portuguese'.
 
-1. To begin with the talk I gave at Microsoft Research in 2010 about "PLN em portugues", suggesting the use of LFG/XLE for Portuguese.
+1. To begin with the talk I gave at Microsoft Research (PARGRAM meeting) in 2010 suggesting the use of LFG/XLE for Portuguese.
 The goal (reached) was to get a  XLE license for  FGV and, after a while, one for  Leonel Alencar (Univ. Ceara).
 
 the old slides:
@@ -11,10 +11,12 @@ https://www.slideshare.net/valeria.depaiva/portuguese-nlp-for-fgv
 https://www.slideshare.net/valeria.depaiva/pargram2011 (project update)
 
 2. Then the OpenWordNet-PT project with Alexandre Rademaker and Gerard de Melo
+
 the user interface is in http://www.openwordnet-pt.org.
+
 the code in https://github.com/own-pt/
 
-This was picked up by Francis Bond to be the Portuguese wordnet in the Open Multilingual Wordnet 
+Our wordnet was picked up by Francis Bond to be the Portuguese wordnet in the Open Multilingual Wordnet 
 (http://compling.hss.ntu.edu.sg/omw/) and this helped us a lot. 
 
 Google Translate (https://translate.google.com/intl/en/about/license/) and Babelnet decided to use our  data too.
