@@ -7,7 +7,8 @@ The goal (reached) was to get a  XLE license for  FGV and, after a while, one fo
 
 the old slides:
 https://www.slideshare.net/valeria.depaiva/portuguese-nlp-for-fgv 
-https://www.slideshare.net/valeria.depaiva/pargram2011 (project update).
+
+https://www.slideshare.net/valeria.depaiva/pargram2011 (project update)
 
 2. Then the OpenWordNet-PT project with Alexandre Rademaker and Gerard de Melo
 the user interface is in http://www.openwordnet-pt.org.
