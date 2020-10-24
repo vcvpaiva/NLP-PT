@@ -32,3 +32,12 @@ or something like this, as I've heard somewhere, perhaps in the meetings of the 
 Anyways in the blog post https://logic-forall.blogspot.com/2018/12/who-uses-openwordnet-pt.html I discuss some of the work arising from OWN-PT.
 
 3. Work on Universal Dependencies (https://universaldependencies.org/) for Portuguese
+
+Together with Claudia Freitas, Livy Real, Alexandre Rademaker, Fabricio Chalub and Edward Bick (https://github.com/UniversalDependencies/UD_Portuguese-Bosque/tree/master)
+
+(I don't know why my name is not there anymore!) But personally I am working now on the PUD-PT, as it's more manageable.
+
+4. Nominals in Portuguese (joint work with Livy Real and Alexandre Rademaker) Some old slides that have not been presented in 2014,
+https://www.slideshare.net/valeria.depaiva/nomlex-gwa
+
+5. Inference in Portuguese
