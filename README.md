@@ -29,15 +29,25 @@ But this does not mean the resource is good, yet. As I keep repeating
 
 or something like this, as I've heard somewhere, perhaps in the meetings of the ACQUILEX project many moons ago.
 
+Other slide decks on this: https://www.slideshare.net/valeria.depaiva/lexical-resources-for-portuguese
+
 Anyways in the blog post https://logic-forall.blogspot.com/2018/12/who-uses-openwordnet-pt.html I discuss some of the work arising from OWN-PT.
 
 3. Work on Universal Dependencies (https://universaldependencies.org/) for Portuguese
 
 Together with Claudia Freitas, Livy Real, Alexandre Rademaker, Fabricio Chalub and Edward Bick (https://github.com/UniversalDependencies/UD_Portuguese-Bosque/tree/master)
 
-(I don't know why my name is not there anymore!) But personally I am working now on the PUD-PT, as it's more manageable.
+(I don't know why my name is not there anymore, this seems wrong to me!) 
+
+But personally I am working now on the PUD-PT, as it's more manageable and it's parallel with English.
 
 4. Nominals in Portuguese (joint work with Livy Real and Alexandre Rademaker) Some old slides that have not been presented in 2014,
 https://www.slideshare.net/valeria.depaiva/nomlex-gwa
 
-5. Inference in Portuguese
+I want to go back to this, as it relates to even older work with Olya Gurevich, Dick Crouch and Tracy King.
+
+5. Inference in Portuguese 
+
+Together with Livy Real, Milos Stanojevic and plenty of good guys from USP we produced SICK-BR, a translation (humanly verified) of the corpus SICK for NL inference.
+
+The paper is in http://vcvpaiva.github.io/includes/pubs/2018-propor.pdf
