@@ -10,7 +10,7 @@ https://www.slideshare.net/valeria.depaiva/portuguese-nlp-for-fgv
 
 https://www.slideshare.net/valeria.depaiva/pargram2011 (project update)
 
-2. Then the OpenWordNet-PT project with Alexandre Rademaker and Gerard de Melo
+2. Then the OpenWordNet-PT project with Alexandre Rademaker and Gerard de Melo, to begin with
 
 the user interface is in http://www.openwordnet-pt.org.
 
@@ -21,7 +21,12 @@ Our wordnet was picked up by Francis Bond to be the Portuguese wordnet in the Op
 
 Google Translate (https://translate.google.com/intl/en/about/license/) and Babelnet decided to use our  data too.
 
-We've written comparisons to other Portuguese wordnets with the authors of other wordnets.
+3. Work on NOMLEX-BR with Livy Real, papers https://www.aclweb.org/anthology/W14-0152.pdf, http://gerard.demelo.org/papers/nomlex-pt-extending.pdf
+repo https://github.com/own-pt/nomlex-pt, slides: https://www.slideshare.net/valeria.depaiva/nomlex-gwa
+
+I want to go back to this, as it relates to even older work with Olya Gurevich, Dick Crouch and Tracy King.
+
+4. We've written comparisons to other Portuguese wordnets with the authors of other wordnets.
 so I feel good about our resource being the best opensource one for Portuguese, given our constraints and theirs.
 But this does not mean the resource is good, yet. As I keep repeating 
 
@@ -39,7 +44,7 @@ https://www.slideshare.net/valeria.depaiva/ownpt-taking-stock
 
 Anyways in the blog post https://logic-forall.blogspot.com/2018/12/who-uses-openwordnet-pt.html I discuss some of the work arising from OWN-PT.
 
-3. Work on Universal Dependencies (https://universaldependencies.org/) for Portuguese
+5. Work on Universal Dependencies (https://universaldependencies.org/) for Portuguese
 
 Together with Claudia Freitas, Livy Real, Alexandre Rademaker, Fabricio Chalub and Edward Bick (https://github.com/UniversalDependencies/UD_Portuguese-Bosque/tree/master)
 
@@ -47,12 +52,7 @@ Together with Claudia Freitas, Livy Real, Alexandre Rademaker, Fabricio Chalub a
 
 But personally I am working now on the PUD-PT, as it's more manageable and it's parallel with English.
 
-4. Nominals in Portuguese (joint work with Livy Real and Alexandre Rademaker) Some old slides that have not been presented in 2014,
-https://www.slideshare.net/valeria.depaiva/nomlex-gwa
-
-I want to go back to this, as it relates to even older work with Olya Gurevich, Dick Crouch and Tracy King.
-
-5. Inference in Portuguese 
+6. Inference in Portuguese 
 
 Together with Livy Real, Milos Stanojevic and plenty of good guys from USP we produced SICK-BR, a translation (humanly verified) of the corpus SICK for NL inference.
 
