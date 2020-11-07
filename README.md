@@ -1,6 +1,6 @@
-# Progresso em PLN em portugues
+# Portuguese NLP Resources
 
-This collection of links is to help me in my research on 'NLP in Portuguese'.
+This collection of links is to help me in my research on 'NLP in Portuguese'. First my own work, then work from others openly available.
 
 1. To begin with the talk I gave at Microsoft Research (PARGRAM meeting) in 2010 suggesting the use of LFG/XLE for Portuguese.
 The goal (reached) was to get a  XLE license for  FGV and, after a while, one for  Leonel Alencar (Univ. Ceara).
