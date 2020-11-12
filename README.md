@@ -10,31 +10,32 @@ https://www.slideshare.net/valeria.depaiva/portuguese-nlp-for-fgv
 
 https://www.slideshare.net/valeria.depaiva/pargram2011 (project update)
 
-2. Then the OpenWordNet-PT project with Alexandre Rademaker and Gerard de Melo, to begin with
+2. Then the important project is OpenWordNet-PT project with Alexandre Rademaker and Gerard de Melo which we carry on developing.
 
-the user interface is in http://www.openwordnet-pt.org.
+To begin with the user interface is in http://www.openwordnet-pt.org.
 
-the code in https://github.com/own-pt/
+The code in https://github.com/own-pt/
 
 Our wordnet was picked up by Francis Bond to be the Portuguese wordnet in the Open Multilingual Wordnet 
 (http://compling.hss.ntu.edu.sg/omw/) and this helped us a lot. 
 
-Google Translate (https://translate.google.com/intl/en/about/license/) and Babelnet decided to use our  data too.
+Google Translate (https://translate.google.com/intl/en/about/license/) and hence Babelnet decided to use our  data too.
 
 3. Work on NOMLEX-BR with Livy Real, papers https://www.aclweb.org/anthology/W14-0152.pdf, http://gerard.demelo.org/papers/nomlex-pt-extending.pdf
 repo https://github.com/own-pt/nomlex-pt, slides: https://www.slideshare.net/valeria.depaiva/nomlex-gwa
 
-I want to go back to this, as it relates to even older work with Olya Gurevich, Dick Crouch and Tracy King.
+I want to go back to this, as it relates to even older work with Olya Gurevich, Dick Crouch and Tracy King
+(https://www.researchgate.net/publication/31277926_Deverbal_Nouns_in_Knowledge_Representation), but the PT version is not as good as it could be.
 
 4. We've written comparisons to other Portuguese wordnets with the authors of other wordnets.
-so I feel good about our resource being the best opensource one for Portuguese, given our constraints and theirs.
+so I feel good about our resource being the ``best opensource wordnet for Portuguese", given our constraints and theirs.
 But this does not mean the resource is good, yet. As I keep repeating 
 
 "Linguistic resources are very easy to start working on, very hard to improve and extremely difficult to maintain."
 
 or something like this, as I've heard somewhere, perhaps in the meetings of the ACQUILEX project many moons ago.
 
-Other slide decks on this: 
+Slide decks on our approaches to improving OWN-PT: 
 
 https://www.slideshare.net/valeria.depaiva/lexical-resources-for-portuguese
 
@@ -59,6 +60,7 @@ Together with Livy Real, Milos Stanojevic and plenty of good guys from USP we pr
 The paper is in http://vcvpaiva.github.io/includes/pubs/2018-propor.pdf
 
 ============================================
+
 Someone keeps this collection of links at UnB
 
 https://forum.ailab.unb.br/t/datasets-em-portugues/251
