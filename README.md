@@ -57,3 +57,14 @@ But personally I am working now on the PUD-PT, as it's more manageable and it's 
 Together with Livy Real, Milos Stanojevic and plenty of good guys from USP we produced SICK-BR, a translation (humanly verified) of the corpus SICK for NL inference.
 
 The paper is in http://vcvpaiva.github.io/includes/pubs/2018-propor.pdf
+
+============================================
+Someone keeps this collection of links at UnB
+
+https://forum.ailab.unb.br/t/datasets-em-portugues/251
+
+Need checking individual resources.
+
+Linguateca  https://www.linguateca.pt/  has some resources but they are not easily updated.
+
+similarly for NILC http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources which is not easily updatable.
