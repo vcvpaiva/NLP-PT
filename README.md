@@ -65,8 +65,10 @@ Someone keeps this collection of links at UnB
 
 https://forum.ailab.unb.br/t/datasets-em-portugues/251
 
-Need checking individual resources.
+I need to check the individual resources and list them here.
+
+=============================================
 
 Linguateca  https://www.linguateca.pt/  has some resources but they are not easily updated.
 
-similarly for NILC http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources which is not easily updatable.
+similarly for NILC http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources which is not easily updateable.
