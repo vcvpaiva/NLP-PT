@@ -72,3 +72,5 @@ I need to check the individual resources and list them here.
 Linguateca  https://www.linguateca.pt/  has some resources but they are not easily updated.
 
 similarly for NILC http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources which is not easily updateable.
+
+Two corpora for RST parsing ?? por.rst.cstn find the correct reference
